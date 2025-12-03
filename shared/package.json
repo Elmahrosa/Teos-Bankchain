@@ -1,0 +1,13 @@
+{
+  "name": "@teos/bankchain-shared",
+  "version": "1.0.0",
+  "description": "Shared utilities for TEOS Bankchain",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["teos", "bankchain", "shared", "utilities"],
+  "author": "TEOS Egypt",
+  "license": "PROPRIETARY"
+}

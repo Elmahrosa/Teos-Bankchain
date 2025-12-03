@@ -1,0 +1,30 @@
+{
+  "name": "TEOS BankChain",
+  "short_name": "BankChain",
+  "description": "Secure digital banking powered by Pi Network. KYC/AML compliant for MENA region.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a2540",
+  "theme_color": "#d4af37",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/placeholder-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/placeholder-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["finance", "business"],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "pi_network": {
+    "app_id": "YOUR_APP_ID_FROM_PI_DEVELOPER_PORTAL",
+    "api_key": "YOUR_API_KEY_FROM_PI_DEVELOPER_PORTAL"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appId": "com.teos.bankchain",
+  "appName": "TEOS Bankchain",
+  "webDir": "../../frontend/web/.next",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#003366",
+      "showSpinner": false
+    },
+    "Keyboard": {
+      "resize": "body",
+      "style": "dark"
+    },
+    "BiometricAuth": {
+      "allowDeviceCredential": true
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
