@@ -1,5 +1,5 @@
 # TEOS BankChain
-
+“Part of the TEOS Egypt Blockchain Ecosystem — a unified civil, financial, and smart-city infrastructure powering digital banking, civic governance, DeFi, Pi integration, and national blockchain services.”
 **A Next-Generation Digital Banking Platform Built on Pi Network**
 
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE.md)
